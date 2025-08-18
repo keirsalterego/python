@@ -1,4 +1,4 @@
-a_str = input("Enter the radius of the ylinder :")
+a_str = input("Enter the radius of the cylinder :")
 b_str = input("Enter the heigh tof the cylinder :")
 
 a = float(a_str)
